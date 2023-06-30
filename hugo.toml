@@ -1,0 +1,5 @@
+baseURL = 'https://klimgv.github.io/hugo-book-demo'
+title = 'Locks'
+theme = "hugo-book"
+
+markup.goldmark.renderer.unsafe=true
